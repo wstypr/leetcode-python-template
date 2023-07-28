@@ -2,7 +2,7 @@ class Solution:
     def functionname(self, args):
        ...
     # replace the functionname and args
-
+    # write your solution code here
 
     
     
